@@ -1,0 +1,15 @@
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.csproj.AssemblyReference.cache
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.AssemblyInfoInputs.cache
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.AssemblyInfo.cs
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.csproj.CoreCompileInputs.cache
+/Users/ssuverin/Desktop/C#/first/fifth_task/bin/Debug/net6.0/fifth_task
+/Users/ssuverin/Desktop/C#/first/fifth_task/bin/Debug/net6.0/fifth_task.deps.json
+/Users/ssuverin/Desktop/C#/first/fifth_task/bin/Debug/net6.0/fifth_task.runtimeconfig.json
+/Users/ssuverin/Desktop/C#/first/fifth_task/bin/Debug/net6.0/fifth_task.dll
+/Users/ssuverin/Desktop/C#/first/fifth_task/bin/Debug/net6.0/fifth_task.pdb
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.dll
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/refint/fifth_task.dll
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.pdb
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/fifth_task.genruntimeconfig.cache
+/Users/ssuverin/Desktop/C#/first/fifth_task/obj/Debug/net6.0/ref/fifth_task.dll
