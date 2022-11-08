@@ -1,0 +1,15 @@
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.csproj.AssemblyReference.cache
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.AssemblyInfoInputs.cache
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.AssemblyInfo.cs
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.csproj.CoreCompileInputs.cache
+/Users/ssuverin/Desktop/C#/first/nineth_task/bin/Debug/net6.0/nineth_task
+/Users/ssuverin/Desktop/C#/first/nineth_task/bin/Debug/net6.0/nineth_task.deps.json
+/Users/ssuverin/Desktop/C#/first/nineth_task/bin/Debug/net6.0/nineth_task.runtimeconfig.json
+/Users/ssuverin/Desktop/C#/first/nineth_task/bin/Debug/net6.0/nineth_task.dll
+/Users/ssuverin/Desktop/C#/first/nineth_task/bin/Debug/net6.0/nineth_task.pdb
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.dll
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/refint/nineth_task.dll
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.pdb
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/nineth_task.genruntimeconfig.cache
+/Users/ssuverin/Desktop/C#/first/nineth_task/obj/Debug/net6.0/ref/nineth_task.dll
